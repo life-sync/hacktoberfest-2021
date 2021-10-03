@@ -64,10 +64,7 @@ I am a good orator and researcher (I have partipated in 20+ debates, MUNs and gr
     <button type="button" class="btn" name="button">Twitter <i class="fab fa-twitter"></i></button>
     <button type="button" class="btn" name="button">Facebook <i class="fab fa-facebook"></i></button>
     <button type="button" class="btn" name="button">Github <i class="fab fa-github"></i></button>
-
     <br>
-
     <p class="foot">© 2020 XYZ.</p>
   </div>
-
 </html>
