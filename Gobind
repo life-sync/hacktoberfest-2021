@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="index.css">
+  <script src="https://kit.fontawesome.com/0266c6d022.js" crossorigin="anonymous"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Merriweather&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet">
+</head>
+<body style="color:white">
+  <div class="top-container">
+
+     <h1>I'm Gobind Anand.</h1>
+    <h2><u>a</u> <u>budding</u> <u>programmer</u></h2>
+    <img class="bottom-cloud" src="">
+  </div>
+  <div class="middle-container">
+    <div class="profile">
+      <img src="images/profile_pic.png" alt="stock-image">
+      <h2 class="hello">Hello.</h2>
+      <p style="color:white">I am a high school student. I have a very keen inclination towards programming. I also love to debate and space research😍.</p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2>My Skills.</h2>
+      <div class="skill-row">
+        <img class="c" src="images/gear.png" alt="c++">
+        <h3>HTML, CSS and Powerpoint</h3>
+        <p class="code1"style="color:white">I have a basic understanding of HTML and CSS and I try to do projects which can help me enhancing these skills. I am also a Powerpoint expert and a pitch expert.</p>
+      </div>
+      <div class="skill-row">
+        <img class="ht" src="images/search.png" alt="html">
+        <h3>Would Learn</h3>
+        <p class="code2">I am very keen towards learning new technologies. Now a days, I am very fascinated by Flutter and Python. I would definitely learn about them in future.</p>
+      </div>
+    </div>
+    <div class="work">
+      <h2>My Works.</h2>
+      <p class="code2 skill-row">  
+I am a good orator and researcher (I have partipated in 20+ debates, MUNs and group discussions and I have always won an award). My team was also second in the national level INSSDC (space settlement development competition). I also pursue space law as a hobby.      
+</p>
+    </div>
+  </div>
+  <hr>
+  <div class="contact-me">
+    <h2 class="git">Get In Touch</h2>
+    <h3>Hope to hear from you soon!</h3>
+    <p>If you find my portfolio decent, then head over to my profiles and let me know 😀 </p>
+  </div>
+  <div class="butt">
+    <a href="#" class="btn">CONTACT ME</a>
+  </div>
+  </div>
+
+  <div class="bottom-container">
+    <button type="button" class="btn" name="button">Twitter <i class="fab fa-twitter"></i></button>
+    <button type="button" class="btn" name="button">Facebook <i class="fab fa-facebook"></i></button>
+    <button type="button" class="btn" name="button">Github <i class="fab fa-github"></i></button>
+
+    <br>
+
+    <p class="foot">© 2020 XYZ.</p>
+  </div>
+
+</html>
