@@ -256,8 +256,8 @@ if __name__ == '__main__':
             print("What song do you want me to play?")
             song_name = takeCommand()
             print('Playing',song_name, sep=' : ')
-            sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="79a1b8eea6894e729e9512790d7cbc7c",
-                                                           client_secret="c5ed3815dbd846ec95dc916907a19350"))
+            sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="",
+                                                           client_secret=""))
             sp_res = sp.search(q=song_name, limit = 1)
             sp_res_link = sp_res['tracks']['items'][0]['external_urls']['spotify']
             webbrowser.open_new_tab(sp_res_link)                                  
