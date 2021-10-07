@@ -1,3 +1,7 @@
+# You can Check the Project live at: https://json-placeholder-usertable.netlify.app/
+
+# OR                              
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
