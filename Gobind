@@ -1,0 +1,11 @@
+num1= eval(input('enter first no:--'))
+num2= eval(input('enter second no:--'))
+operation= (input('enter operation among {+, -, *, /}:---'))
+if operation=='+':
+  print('the sum is:', num1+num2)
+elif operation=='-':
+  print('the difference is:', num1-num2)
+elif operation=='*':
+  print('the product is:', num1*num2)
+elif operation=='/':
+  print('the quotient is:', num1/num2)
